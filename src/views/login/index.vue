@@ -12,7 +12,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 .login-container{
     width: 100%;
     height: 100%;
@@ -21,7 +21,6 @@ export default {
     top:0;
     left:0;
     background:url("../../assets/images/login_bg.jpg") no-repeat center / cover;
-    }
 
  .login-box{
     width: 400px;
@@ -32,6 +31,8 @@ export default {
     transform: translate(-50%,-50%);
 
   }
+    }
+
     img{
       display: block;
       width: 200px;
