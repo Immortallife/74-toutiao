@@ -1,6 +1,8 @@
 <template>
     <div class="login-container">
-        <el-card class="login-box"></el-card>
+        <el-card class="login-box">
+            <img src="../../assets/images/logo_index.png" alt="">
+        </el-card>
     </div>
 </template>
 
